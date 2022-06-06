@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Mobile Application Development, Springboot & React
 
 ### :hammer_and_wrench: Languages and Tools : 
-</br>
+
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> &nbsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>  &nbsp;
@@ -27,9 +27,10 @@
 </div>
 
 ### :fire: My Stats :
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShehaniHettiarachchi&theme=dark&background=000000)](https://git.io/streak-stats)
-<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShehaniHettiarachchi&theme=dark&background=000000)](https://git.io/streak-stats)
+<div>&nbsp; &nbsp; &nbsp; &nbsp; 
+   <a href="https://github.com/ShehaniHettiarachchi/github-readme-stats"><img alt="Shehani Hettiarachchi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ShehaniHettiarachchi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/ShehaniHettiarachchi/github-readme-stats"><img alt="ShehaniHettiarachchi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShehaniHettiarachchi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"  /></a> 
   <!--<a href="https://github.com/ShehaniHettiarachchi/github-readme-activity-graph"><img alt="ShehaniHettiarachchi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ShehaniHettiarachchi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>-->
 </div>  
