@@ -29,7 +29,7 @@
 ### :fire: My Stats :
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShehaniHettiarachchi&theme=dark&background=000000)](https://git.io/streak-stats)
-<div>&nbsp; &nbsp; &nbsp; &nbsp; 
+<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
    <a href="https://github.com/ShehaniHettiarachchi/github-readme-stats"><img alt="Shehani Hettiarachchi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ShehaniHettiarachchi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/ShehaniHettiarachchi/github-readme-stats"><img alt="ShehaniHettiarachchi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShehaniHettiarachchi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"  /></a> 
   <!--<a href="https://github.com/ShehaniHettiarachchi/github-readme-activity-graph"><img alt="ShehaniHettiarachchi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ShehaniHettiarachchi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>-->
