@@ -32,7 +32,7 @@
 &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; 
    <a href="https://github.com/ShehaniHettiarachchi/github-readme-stats"><img alt="Shehani Hettiarachchi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ShehaniHettiarachchi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-<div>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; 
+
   <a href="https://github.com/ShehaniHettiarachchi/github-readme-stats"><img alt="ShehaniHettiarachchi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShehaniHettiarachchi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"  /></a> 
   
-</div>  
+
