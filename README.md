@@ -38,5 +38,6 @@
   <hr>
   <a href="https://github.com/ShehaniHettiarachchi/github-readme-activity-graph"><img alt="ShehaniHettiarachchi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ShehaniHettiarachchi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </div>  
+<hr>
   
 
