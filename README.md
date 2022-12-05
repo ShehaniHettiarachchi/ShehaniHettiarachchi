@@ -1,8 +1,11 @@
 <h1 align="center">Hi, I'm Shehani Hettiarachchi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height ="20px"></h1>
 <div id="header" align="center">
   
-  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width = "600" height = "500"/>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=shehanihettiarachchi" alt="shehanihettiarachchi" /> </p>
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width = "600" height = "500"/><br>
+  <img src="https://komarev.com/ghpvc/?username=shehanihettiarachchi" alt="shehanihettiarachchi" /> 
+  ![GitHub followers](https://img.shields.io/github/followers/shehanihettiarachchi?label=Follow&style=social)
+  [![Linkedin: Shehani Hettiarachchi](https://img.shields.io/badge/-Shehani_Hettiarachchi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shehani-hettiarachchi/)](https://www.linkedin.com/in/shehani-hettiarachchi/)
+ 
 </div>
 
 <div align="center">
