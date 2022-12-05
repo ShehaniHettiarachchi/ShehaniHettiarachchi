@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Shehani Hettiarachchi :woman:<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height ="20px"></h1>
+<h1 align="center">Hi, I'm Shehani Hettiarachchi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height ="20px"></h1>
 <div id="header" align="center">
+  
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width = "600" height = "500"/>
 </div>
 
@@ -7,12 +8,13 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=WELCOME+TO+MY+PROFILE+.+.+.;+.+.+.&center=true"></a>
 <br>
 
-### :bulb: About me:
+
+### :pushpin: About me:
 
  🔭 I’m currently studying Software Engineering at SLIIT <br>
  🌱 I’m currently learning Mobile Application Development & MERN stack 
 
-### :hammer_and_wrench: Languages and Tools : 
+### :pushpin: Languages and Tools : 
 
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> &nbsp;
@@ -33,7 +35,7 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </div>
 
-### :fire: My Stats :
+### :pushpin: My Stats :
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShehaniHettiarachchi&theme=dark&background=000000)](https://git.io/streak-stats)
 
