@@ -2,6 +2,7 @@
 <div id="header" align="center">
   
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width = "600" height = "500"/>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=shehanihettiarachchi" alt="shehanihettiarachchi" /> </p>
 </div>
 
 <div align="center">
