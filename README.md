@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width = "600" height = "500"/><br>
   <img src="https://komarev.com/ghpvc/?username=shehanihettiarachchi" alt="shehanihettiarachchi" /> 
   ![GitHub followers](https://img.shields.io/github/followers/shehanihettiarachchi?label=Follow&style=social)
-  [![Linkedin: Shehani Hettiarachchi](https://img.shields.io/badge/-Shehani_Hettiarachchi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shehani-hettiarachchi/)](https://www.linkedin.com/in/shehani-hettiarachchi/)
+  [![Linkedin: Shehani Hettiarachchi](https://img.shields.io/badge/-Shehani_Hettiarachchi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shehani-sanchala-hettiarachchi/)](https://www.linkedin.com/in/shehani-sanchala-hettiarachchi/)
  
 </div>
 
