@@ -3,10 +3,14 @@
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width = "600" height = "500"/>
 </div>
 
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=WELCOME+TO+MY+PROFILE+.+.+.+.;+.+.+.&center=true"></a>
+<br>
+
 ### :bulb: About me:
 
-- 🔭 I’m currently studying Software Engineering at SLIIT
-- 🌱 I’m currently learning Mobile Application Development & MERN stack 
+ 🔭 I’m currently studying Software Engineering at SLIIT <br>
+ 🌱 I’m currently learning Mobile Application Development & MERN stack 
 
 ### :hammer_and_wrench: Languages and Tools : 
 
