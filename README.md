@@ -48,8 +48,11 @@
 </p>
   
   <hr>
- 
-</div>  
-<hr>
+
+</div>
+
+ [![Shehani's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ShehaniHettiarachchi&theme=tokyo-night)](https://github.com/shehanihettiarachchi/github-readme-activity-graph)
+
+
   
 
