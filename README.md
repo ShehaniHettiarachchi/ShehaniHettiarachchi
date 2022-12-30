@@ -51,7 +51,7 @@
 
 </div>
 
- [![Shehani's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ShehaniHettiarachchi&theme=tokyo-night)](https://github.com/shehanihettiarachchi/github-readme-activity-graph)
+ [![Shehani's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ShehaniHettiarachchi&theme=react-dark&color=FFFFFF&line=C67ACE&area=true&area_color=BC8CF2)](https://github.com/shehanihettiarachchi/github-readme-activity-graph)
 
 
   
