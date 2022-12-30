@@ -47,11 +47,10 @@
    <a href="https://github.com/shehanihettiarachchi/github-readme-stats"><img alt="Shehani Hettiarachchi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shehanihettiarachchi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><a href="https://github.com/shehanihettiarachchi/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehanihettiarachchi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
   
-  <hr>
 
 </div>
 
- [![Shehani's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ShehaniHettiarachchi&theme=react-dark&color=FFFFFF&line=C67ACE&area=true&area_color=BC8CF2)](https://github.com/shehanihettiarachchi/github-readme-activity-graph)
+ [![Shehani's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ShehaniHettiarachchi&theme=react-dark&color=FFFFFF&line=C67ACE&area=true&area_color=BC8CF2&hide_border=true&point=D8E3E7)](https://github.com/shehanihettiarachchi/github-readme-activity-graph)
 
 
   
