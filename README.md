@@ -9,7 +9,9 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=WELCOME+TO+MY+PROFILE+.+.+.;+.+.+.&center=true"></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Inline&size=23&pause=1000&color=38FFFC&vCenter=true&width=435&lines= +WELCOME+TO+MY+PROFILE+....." alt="Typing SVG" /></a>
+
 <br>
 
 
