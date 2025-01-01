@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Gemstones&size=30&duration=5004&pause=1000&color=F7EC00&width=448&lines=Hi+!!!;I'm+Shehani+Hettiarachchi)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Maze&size=29&duration=5004&pause=1000&color=F7EC00&width=448&lines=HI+...;I'M+SHEHANI+HETTIARACHCHI" alt="Typing SVG" /></a>
 
 ###
 
@@ -53,13 +53,16 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<div id="header" align="center"> <be> <br>
+  
+  [![GitHub followers](https://img.shields.io/github/followers/shehanihettiarachchi?label=Follow&style=social)](https://github.com/shehanihettiarachchi)
+
+  
+  [![Linkedin: Shehani Hettiarachchi](https://img.shields.io/badge/-Shehani_Hettiarachchi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shehani-sanchala-hettiarachchi/)](https://www.linkedin.com/in/shehani-sanchala-hettiarachchi/)
+
+
+
+
 </div>
 
 ###
