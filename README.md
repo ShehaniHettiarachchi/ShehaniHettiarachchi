@@ -52,16 +52,22 @@
 </div>
 
 ###
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShehaniHettiarachchi" alt="ShehaniHettiarachchi" /></a> </p>
+
+###
+<a href="https://github-readme-activity-graph.vercel.app/graph?username=ShehaniHettiarachchi&bg_color=000000&color=F70000FF&line=F70000FF&point=F70000FF&area=true&hide_border=true">
+  <img alt="Sahan Punchihewa's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ShehaniHettiarachchi&bg_color=0D1117&color=F7F51BFF&line=F7F51BFF&point=FFFFFF&hide_border=true" />
+</a>
+
+###
 
 <div id="header" align="center"> <be> <br>
   
   [![GitHub followers](https://img.shields.io/github/followers/shehanihettiarachchi?label=Follow&style=social)](https://github.com/shehanihettiarachchi)
   [![Linkedin: Shehani Hettiarachchi](https://img.shields.io/badge/-Shehani_Hettiarachchi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shehani-sanchala-hettiarachchi/)](https://www.linkedin.com/in/shehani-sanchala-hettiarachchi/)
 
-
-
-
 </div>
+
 
 ###
 
