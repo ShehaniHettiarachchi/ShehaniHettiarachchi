@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 My name is Shehani Hettiarachchi</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Gemstones&size=30&duration=5004&pause=1000&color=F7EC00&width=448&lines=Hi+!!!;I'm+Shehani+Hettiarachchi)](https://git.io/typing-svg)
 
 ###
 
