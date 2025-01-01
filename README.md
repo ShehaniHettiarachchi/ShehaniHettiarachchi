@@ -56,8 +56,6 @@
 <div id="header" align="center"> <be> <br>
   
   [![GitHub followers](https://img.shields.io/github/followers/shehanihettiarachchi?label=Follow&style=social)](https://github.com/shehanihettiarachchi)
-
-  
   [![Linkedin: Shehani Hettiarachchi](https://img.shields.io/badge/-Shehani_Hettiarachchi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shehani-sanchala-hettiarachchi/)](https://www.linkedin.com/in/shehani-sanchala-hettiarachchi/)
 
 
