@@ -67,8 +67,4 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/ShehaniHettiarachchi/ShehaniHettiarachchi/output/snake.svg" alt="Snake animation" />
-
-###
