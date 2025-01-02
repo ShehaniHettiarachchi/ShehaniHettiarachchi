@@ -2,6 +2,15 @@
 
 ###
 
+<div id="header" align="center"> <be> <br>
+  
+  [![GitHub followers](https://img.shields.io/github/followers/shehanihettiarachchi?label=Follow&style=social)](https://github.com/shehanihettiarachchi)
+  [![Linkedin: Shehani Hettiarachchi](https://img.shields.io/badge/-Shehani_Hettiarachchi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shehani-sanchala-hettiarachchi/)](https://www.linkedin.com/in/shehani-sanchala-hettiarachchi/)
+
+</div>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShehaniHettiarachchi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShehaniHettiarachchi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -58,16 +67,6 @@
 <a href="https://github-readme-activity-graph.vercel.app/graph?username=ShehaniHettiarachchi&bg_color=000000&color=F70000FF&line=F70000FF&point=F70000FF&area=true&hide_border=true">
   <img alt="Sahan Punchihewa's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ShehaniHettiarachchi&bg_color=0D1117&color=F7F51BFF&line=F7F51BFF&point=FFFFFF&hide_border=true" />
 </a>
-
-###
-
-<div id="header" align="center"> <be> <br>
-  
-  [![GitHub followers](https://img.shields.io/github/followers/shehanihettiarachchi?label=Follow&style=social)](https://github.com/shehanihettiarachchi)
-  [![Linkedin: Shehani Hettiarachchi](https://img.shields.io/badge/-Shehani_Hettiarachchi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shehani-sanchala-hettiarachchi/)](https://www.linkedin.com/in/shehani-sanchala-hettiarachchi/)
-
-</div>
-
 
 ###
 
