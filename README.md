@@ -27,15 +27,15 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://raw.githubusercontent.com/react-icons/react-icons/master/react-icons.svg" width="40" alt="React Icons"/>
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
   <img width="12" />
@@ -60,10 +60,17 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </div>
 
+
 ###
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShehaniHettiarachchi" alt="ShehaniHettiarachchi" /></a> </p>
 
+
+<div align="center" style="background-color:#fff700; padding: 50px 0; width: 100%;">
+<a href="https://www.buymeacoffee.com/buymecoffee ShehaniHettiarachchi"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymecoffee ShehaniHettiarachchi" /></a>
+</div>
+
 ###
+
 <a href="https://github-readme-activity-graph.vercel.app/graph?username=ShehaniHettiarachchi&bg_color=000000&color=F70000FF&line=F70000FF&point=F70000FF&area=true&hide_border=true">
   <img alt="Sahan Punchihewa's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ShehaniHettiarachchi&bg_color=0D1117&color=F7F51BFF&line=F7F51BFF&point=FFFFFF&hide_border=true" />
 </a>
